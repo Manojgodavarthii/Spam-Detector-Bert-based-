@@ -1,0 +1,2 @@
+# Spam Detector Bert based 
+ This repository introduces a BERT-powered spam email detection system. It leverages the transformers library to fine-tune a BERT model on a labeled email dataset. The project includes data preprocessing, model training, evaluation using metrics like confusion matrices and classification reports, and visualization of results using Seaborn and Matplotlib. By effectively classifying spam and legitimate emails, this system aims to improve email security and user experience.
